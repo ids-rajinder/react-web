@@ -1,0 +1,14 @@
+$primary-color:#024077;
+.blue-color{
+  color:$primary-color;
+}
+.bg-blue-color{
+  background-color: $primary-color;
+}
+.btn:hover{
+  background: #0364b8;
+  box-shadow: 0 6px 15px 0 rgba(2,59,109,.25);
+}
+body{
+  padding-top: 56px !important;
+}
